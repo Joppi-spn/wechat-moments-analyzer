@@ -1,0 +1,28 @@
+# ===== 敏感数据 / 采集产物（含真人朋友圈内容，禁止上传）=====
+output/
+caps_*/
+caps/
+
+# ===== 本地工具（平台相关的大体积二进制，不入库）=====
+tools/
+
+# ===== 密钥与本地环境变量 =====
+.env
+.env.local
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ===== IDE / 系统 =====
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===== 临时图片与日志 =====
+*.log
+_check.png

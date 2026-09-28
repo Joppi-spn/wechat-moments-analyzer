@@ -1,0 +1,8 @@
+rapidocr-onnxruntime
+openpyxl
+opencv-python
+jieba
+wordcloud
+matplotlib
+pillow
+numpy

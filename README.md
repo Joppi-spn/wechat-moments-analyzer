@@ -63,6 +63,8 @@ python export_excel.py --name 好友昵称
 ```bash
 python wordCloud.py --name 好友昵称
 ```
+生成词云示例图：
+<img width="1953" height="1319" alt="7cf9e9da9dbb31a3a02fa9a8c71730bc" src="https://github.com/user-attachments/assets/b540e694-21e0-4a2d-b265-7143f1299bee" />
 
 ## 配置项
 
